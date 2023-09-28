@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "title": "Layered Chocolate Truffle Eggless Cake",
+      "description": "This exquisite dessert is a chocolate lover's dream, featuring layers of rich chocolate cake and luxurious chocolate truffle frosting, all without the use of eggs. [ Chocolate Sponge + Truffle + Double Chocolate layering ] (6 Serving, 388 calories each, protein-5g each, carbs - 53g each)",
+      "price": "₹549",
+      "picture": [
+        "https://b.zmtcdn.com/data/dish_photos/b8c/0c6676b5e49cec6799892c8dd898cb8c.jpg?fit=around|130:130&crop=130:130;*,*"
+      ]
+    },
+    {
+      "title": "Death By Chocolate Eggless Cake",
+      "description": "It's a decadent treat for chocolate lovers, promising an intense and satisfying chocolate experience. It is visually stunning and tempting. This dessert is a true indulgence for chocolate enthusiasts, offering a lavish combination of chocolate flavors, textures, and layers that create a memorable and satisfying treat.",
+      "price": "₹529",
+      "picture": [
+        "https://b.zmtcdn.com/data/dish_photos/6eb/4c2a2d8a018aadfd7730fac6e07bb6eb.jpg?fit=around|130:130&crop=130:130;*,*"
+      ]
+    },
+    {
+      "title": "Mango Fruit Cake",
+      "description": "This Cake is a delightful dessert that captures the vibrant and sweet essence of ripe mangoes in a cake form. It is a perfect choice for those who crave the luscious taste of mangoes in a unique and delectable treat. [Vanilla Sponge + Mango filling + Cream] (6 serving, 334 calories each, Protein-7g each, Carbs-56g each)This Cake is a delightful dessert that captures the vibrant and sweet essence of ripe mangoes in a cake form. It is a perfect choice for those who crave the luscious taste of mangoes in a unique and delectable treat. [Vanilla Sponge + Mango filling + Cream] (6 serving, 334 calories each, Protein-7g each, Carbs-56g each)",
+      "price": "₹449",
+      "picture": [
+        "https://b.zmtcdn.com/data/dish_photos/203/3c54fd236383b76ec079bea8b115b203.jpg?fit=around|130:130&crop=130:130;*,*"
+      ]
+    },
+    {
+      "title": "Chocolate Jar Cake",
+      "description": "[Eggless]. Our chocolate cake in the form of our jar cake is something you and your adorable ones will absolutely like. This cute little chocolate jar cake will fill any celebration with sweet smiles, and the jar makes the cake even more appealing. (1 Serving, 423 calories, 4gms Protein, 44gms Carbs).",
+      "price": "₹139",
+      "picture": [
+        "https://b.zmtcdn.com/data/dish_photos/858/08b40a3f6873d921eef7b59770331858.jpg?fit=around|130:130&crop=130:130;*,*"
+      ]
+    },
+    {
+      "title": "Happy Anniversary Fondant Cake",
+      "description": "Celebrate Precious moments with your loved ones, this butterscotch cake is made for you with love to make your day special. We promise, sweeter celebrations with CakeZone.(6 Serving, 912calories, 18 gms Protein, 176gms Carbs).",
+      "price": "₹509",
+      "picture": [
+        "https://b.zmtcdn.com/data/dish_photos/90b/de8d3cea9e6ecd4742aa5754a12ae90b.jpg?fit=around|130:130&crop=130:130;*,*"
+      ]
+    }
+  ]
+}
